@@ -1,0 +1,5 @@
+frmMain = 88, 88, 672, 506, C, 44, 44, 628, 462, C
+frmConfig = 0, 0, 0, 0, C, 22, 22, 606, 440, C
+modGeneral = 0, 0, 0, 0, C
+modTCPIP = 0, 0, 0, 0, C
+modRegistry = 0, 0, 0, 0, C
